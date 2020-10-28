@@ -17,6 +17,6 @@ Requires [Node.js](https://nodejs.org/en/) and [Semantic UI React](https://react
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and is powered by the [News API](https://newsapi.org/).
 
-### Issues
+## Issues
 
-The GitHub pages version currently does not work, and I unfortunately don't know how to modify the source code for it to properly function (I have looked up documentation and rerouting pages, but to no avail). At the moment, must download the repository and run `npm run` on CLI to open it at [localhost:3000](http://localhost:3000) to view it in the browser.
+The GitHub pages version currently does not work, and I unfortunately don't know how to modify the source code for it to properly function (I have looked up documentation and rerouting pages, but to no avail). At the moment, must download the repository and run `npm start` on CLI to open it at [localhost:3000](http://localhost:3000) to view it in the browser.
